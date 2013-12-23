@@ -1,6 +1,7 @@
 #ignore all
 *.*
 */
+*/.DS_Store
 
 #but src lib tests markdown
 !src/
