@@ -1,12 +1,14 @@
 #ignore all
-*.*
-*/
-*/.DS_Store
+/*
 
 #but src lib tests markdown
-!src/
-!lib/
-!tests/
+!/src/
+!/lib/
+!/libs/
+!/test/
+!/tests/
 !*.md
 !*.MD
 !*.markdown
+
+.DS_Store
